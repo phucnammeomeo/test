@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713049968740",
+    "project_id": "trainingappreactnative20-9a781",
+    "storage_bucket": "trainingappreactnative20-9a781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713049968740:android:e4145652a66dd010b34f71",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713049968740-nc64fsopntimmdl3bt6gdur111m5qqcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2xZ1ysla2GIOKADI71v9OcxsAQimaIY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713049968740-nc64fsopntimmdl3bt6gdur111m5qqcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
